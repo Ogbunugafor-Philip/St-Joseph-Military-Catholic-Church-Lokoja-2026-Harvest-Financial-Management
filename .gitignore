@@ -1,0 +1,52 @@
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Private audit material
+.audit-private/
+
+# Production/private financial data and generated reports
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+*.sql
+*.dump
+*.bak
+*.backup
+*.xlsx
+*.xls
+*.csv
+*.pdf
+exports/
+reports/
+backups/
+
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+.venv-validation/
+env/
+sjmcc_harvest_sqlite/venv/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/settings.local.json
