@@ -37,8 +37,7 @@ This portfolio case study presents the business thinking behind an operational f
 13. [Operational Implementation](#operational-implementation)
 14. [Quality Assurance](#quality-assurance)
 15. [Professional Competencies](#business-analyst--digital-transformation-competencies-demonstrated)
-16. [Limitations & Roadmap](#limitations--roadmap)
-17. [Project Ownership](#project-ownership)
+16. [Project Ownership](#project-ownership)
 
 ---
 
@@ -428,30 +427,11 @@ The 19-test result applies to the **isolated remediation candidate**, not a clai
   </tr>
   <tr>
     <td valign="top"><h3>Digital Transformation</h3><ul><li>Financial workflow digitization</li><li>Centralized information management</li><li>Automated business calculations</li><li>Data-driven management visibility</li><li>Operational solution delivery</li></ul></td>
-    <td valign="top"><h3>Solution Assurance</h3><ul><li>Functional verification</li><li>Financial rule testing</li><li>Security-conscious configuration</li><li>Reporting validation</li><li>Continuous-improvement roadmap</li></ul></td>
+    <td valign="top"><h3>Solution Assurance</h3><ul><li>Functional verification</li><li>Financial rule testing</li><li>Security-conscious configuration</li><li>Reporting validation</li><li>Operational quality review</li></ul></td>
   </tr>
 </table>
 
 The project demonstrates the ability to connect operational needs with process, data, controls, technology and decision-support outcomes.
-
----
-
-## Limitations & Roadmap
-
-The following items are **proposed enhancements**, not current production capabilities.
-
-| Roadmap area | Future-state opportunity | Business rationale |
-|---|---|---|
-| Individual accounts | Named users, activation/deactivation and password reset | Improve accountability and access administration |
-| Role-based access control | Viewer, record officer, administrator and reviewer roles | Strengthen separation of duties |
-| Transaction-level history | Individual payment entries with unique receipt references | Improve traceability and duplicate prevention |
-| Enhanced audit trail | Before/after values, user, time and correction reason | Support independent review of changes |
-| Reversal workflow | Controlled void/reversal instead of permanent correction patterns | Preserve financial history |
-| Reconciliation workflow | External statement matching and exception resolution | Extend current reconciliation support |
-| Period controls | Review, approval and locked reporting periods | Improve financial governance |
-| Additional financial intelligence | Carefully governed trend and exception indicators | Extend management insight without overstating prediction |
-
-The roadmap intentionally separates today's verified capabilities from future control maturity.
 
 ---
 
